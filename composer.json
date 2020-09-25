@@ -1,0 +1,18 @@
+{
+    "name": "behindthepage/baun-admin-theme",
+    "type": "library",
+    "description": "A Baun plugin that adds a lightweight admin theme.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geoff Davies",
+            "email": "geoff@behindthepage.com.au"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BaunPlugin\\AdminTheme\\": "src/"
+        }
+    }
+}
